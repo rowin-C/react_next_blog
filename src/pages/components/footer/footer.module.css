@@ -1,0 +1,43 @@
+.footer {
+  font-size: 1.4rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5rem 0 2rem 0;
+}
+.blank {
+  width: 300px;
+
+  display: flex;
+  align-items: center;
+}
+.icons {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.git {
+  filter: invert(100%);
+}
+
+/* .twi,
+.per,
+.git {
+  transition: 0.1s ease-in-out;
+}
+
+.git:hover {
+  scale: 1.2;
+  box-shadow: 1px 1px 10px 10px rgba(54, 54, 54, 0.75);
+}
+
+.twi:hover,
+.per:hover {
+  scale: 1.2;
+  box-shadow: 1px 1px 10px 10px rgba(184, 184, 184, 0.75);
+}
+
+.text {
+  width: 300px;
+} */
