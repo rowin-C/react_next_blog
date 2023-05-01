@@ -12,9 +12,8 @@ export default function Home() {
             <h2>Python to 3D model - Blender</h2>
             {/* <h2 className={style.date">dated 22 22 22</h2> */}
             <p>
-              As AI continues to evolve and become more prevalent in our daily
-              lives, there's a lot of interest in where this technology is
-              headed.
+              Effortlessly Create 3D Models in Blender with Python: A Beginner's
+              Guide
             </p>
             <div className={style.view}>
               <div className={style.viewText}>
